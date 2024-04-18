@@ -4,31 +4,31 @@ const menuItems = document.querySelectorAll(".menuItem");
 const products = [
   {
     id: 1,
-    title: "Air Force",
+    title: "MODE",
     price: 119,
     colors: [
       {
         code: "black",
-        img: "./img/air.png",
+        img: "Apple_iPhone_12-removebg-preview.png",
       },
       {
         code: "darkblue",
-        img: "./img/air2.png",
+        img: "Apple_iPhone_12-removebg-preview",
       },
     ],
   },
   {
     id: 2,
-    title: "Air Jordan",
+    title: "INFORMATIQUE",
     price: 149,
     colors: [
       {
         code: "lightgray",
-        img: "./img/jordan.png",
+        img: "Casques_-_micros__1_-removebg-preview.png",
       },
       {
         code: "green",
-        img: "./img/jordan2.png",
+        img: "Casques_-_micros__1_-removebg-preview.png",
       },
     ],
   },
