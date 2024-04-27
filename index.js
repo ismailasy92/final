@@ -4,7 +4,7 @@ const menuItems = document.querySelectorAll(".menuItem");
 const products = [
   {
     id: 1,
-    title: "MODE",
+    title: "TECHNOLOGIE",
     price: 119,
     colors: [
       {
@@ -13,67 +13,67 @@ const products = [
       },
       {
         code: "darkblue",
-        img: "Apple_iPhone_12-removebg-preview",
+        img: "Ecrans_PC__2_-removebg-preview.png",
       },
     ],
   },
   {
     id: 2,
-    title: "INFORMATIQUE",
+    title: "IIMMOBILIER",
     price: 149,
     colors: [
       {
         code: "lightgray",
-        img: "Casques_-_micros__1_-removebg-preview.png",
+        img: "Beach_House-removebg-preview.png",
       },
       {
         code: "green",
-        img: "Casques_-_micros__1_-removebg-preview.png",
+        img: "Can_Basso___Photos-removebg-preview.png",
       },
     ],
   },
   {
     id: 3,
-    title: "Blazer",
+    title: "HOTEL",
     price: 109,
     colors: [
       {
         code: "lightgray",
-        img: "./img/blazer.png",
+        img: "derelict_stone_heritage_buildings_in_catalonia_sustainably_revitalized-removebg-preview.png",
       },
       {
         code: "green",
-        img: "./img/blazer2.png",
+        img: "c3423aad-37e3-4051-b316-f3f5ca36fe67-removebg-preview.png",
       },
     ],
   },
   {
     id: 4,
-    title: "Crater",
+    title: "MODE",
     price: 129,
     colors: [
       {
         code: "black",
-        img: "./img/crater.png",
+        img: "emmastine_com-removebg-preview.png",
       },
       {
         code: "lightgray",
-        img: "./img/crater2.png",
+        img: "Casual_Work_Outfit-removebg-preview.png",
       },
     ],
   },
   {
     id: 5,
-    title: "Hippie",
+    title: "SERVICE",
     price: 99,
     colors: [
       {
         code: "gray",
-        img: "./img/hippie.png",
+        img: "Imprimantes__1_-removebg-preview (1).png",
       },
       {
         code: "black",
-        img: "./img/hippie2.png",
+        img: "Imprimantes-removebg-preview.png",
       },
     ],
   },
